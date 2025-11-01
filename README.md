@@ -8,7 +8,7 @@
 
 ### 👨‍💻 about Me
 
-Saya seorang mahasiswa **Teknik Informatika (Computer Science) tahun ketiga** di **Institut Teknologi Bandung (ITB)**.
+Saya seorang mahasiswa **Sistem dan Teknologi Informasi (Information System and Technology) fakultas School of Electrical Engineering and Informatics (STEI-ITB)** di **Institut Teknologi Bandung (ITB)**.
 
 Saya sangat antusias dalam membangun solusi di persimpangan antara **Rekayasa Perangkat Lunak (Software Engineering)** dan **Data Science/AI**. Saya aktif berpartisipasi dalam berbagai kompetisi *machine learning* dan membangun proyek perangkat lunak, mulai dari aplikasi web *full-stack* hingga algoritma AI.
 
