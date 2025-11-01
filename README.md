@@ -1,16 +1,53 @@
 # Hello, World! welcome... to Ghazy's GitHub, hope you Enjoy👋
 
-### 👨‍💻 About Me
+### 👨‍💻 about Me
 
 Seorang mahasiswa **Teknik Informatika (Computer Science) tahun ketiga** di **Institut Teknologi Bandung (ITB)**.
 
 Saya sangat antusias dalam membangun solusi di persimpangan antara **Rekayasa Perangkat Lunak (Software Engineering)** dan **Data Science/AI**. Saya aktif berpartisipasi dalam berbagai kompetisi *machine learning* dan membangun proyek perangkat lunak, mulai dari aplikasi web *full-stack* hingga algoritma AI.
 
+<p align="center">
+  <a href="https://instagram.com/ghazyachmed">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"
+         height="40" alt="Instagram Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ghazyurbayani">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"
+         height="40" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:ghazyurbayani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"
+         height="40" alt="Email Badge" />
+  </a>
+</p>
+
+---
+
+### 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhazyUrbayani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="Ghazy’s GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazyUrbayani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Ghazy’s Top Languages" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GhazyUrbayani&theme=tokyonight&hide_border=false" alt="Ghazy’s GitHub streak" />
+</p>
+
+---
+
+### 🐍 Aktivitas Kontribusi Saya
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhazyUrbayani/GhazyUrbayani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhazyUrbayani/GhazyUrbayani/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/GhazyUrbayani/GhazyUrbayani/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 💻 Tech Stack & Tools
-
-Kumpulan teknologi yang saya gunakan dalam proyek-proyek saya:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -37,31 +74,33 @@ Kumpulan teknologi yang saya gunakan dalam proyek-proyek saya:
 Berikut adalah beberapa proyek dan pencapaian yang sedang saya kerjakan dan banggakan:
 
 #### 1. Kompetisi Data Science & AI
-* **[Dropout-School-Rate-SHINE-binus-2025](https://github.com/username/Dropout-School-Rate-SHINE-binus-2025)**
+* **[Dropout-School-Rate-SHINE-binus-2025](https://github.com/GhazyUrbayani/Dropout-School-Rate-SHINE-binus-2025)**
     * Solusi **Peringkat #4** untuk Rumpun Penalaran 2025 Data Science Competition (BINUS University).
     * Membuat model prediksi *dropout rate* siswa menggunakan *ensemble* Gradient Boosting.
 
-* **[AverageTemperature-MachineLearning-Prediction-intelecta](https://github.com/username/AverageTemperature-MachineLearning-Prediction-intelecta)**
+* **[AverageTemperature-MachineLearning-Prediction-intelecta](https://github.com/GhazyUrbayani/AverageTemperature-MachineLearning-Prediction-intelecta)**
     * Solusi tim "Si data tuh" untuk Global Agriculture Challenge 2025 (Tahap Penyisihan).
     * Memprediksi suhu rata-rata tahunan menggunakan model *time-series forecasting*.
 
-* **[Talent-Salary-Prediction-Model-IFEST-2025](https://github.com/username/Talent-Salary-Prediction-Model-IFEST-2025)**
+* **[Talent-Salary-Prediction-Model-IFEST-2025](https://github.com/GhazyUrbayani/Talent-Salary-Prediction-Model-IFEST-2025)**
     * Solusi untuk Data Analytics Competition (DAC) IFest 2025 (HIMATIF UNPAD).
     * Membangun model *multi-target regression* untuk memprediksi rentang gaji.
 
-* **[IF3070-AI-BinPacking](https://github.com/username/IF3070-AI-BinPacking)**
+* **[IF3070-AI-BinPacking](https://github.com/GhazyUrbayani/IF3070-AI-BinPacking)**
     * Implementasi algoritma *local search* (Hill Climbing, Simulated Annealing, dan Genetic Algorithm) untuk menyelesaikan masalah Bin Packing.
 
 #### 2. Rekayasa Perangkat Lunak & Pengembangan Web
-* **[PAWM-IoTLabITB](https://github.com/username/PAWM-IoTLabITB)**
+* **[PAWM-IoTLabITB](https://github.com/GhazyUrbayani/PAWM-IoTLabITB)**
     * Proyek Tugas Besar mata kuliah Pengembangan Aplikasi Web dan Mobile (PAWM).
     * Membangun website profil untuk Laboratorium IoT ITB.
 
-* **[IF2050-2025-K2E-Exhibitly](https://github.com/username/IF2050-2025-K2E-Exhibitly)**
+* **[IF2050-2025-K2E-Exhibitly](https://github.com/GhazyUrbayani/IF2050-2025-K2E-Exhibitly)**
     * Perangkat lunak berbasis Java untuk manajemen koleksi artefak dan pameran museum.
 
-* **[porto](https://github.com/username/porto)**
+* **[porto](https://github.com/GhazyUrbayani/porto)**
     * Situs portofolio pribadi saya, dibangun menggunakan Next.js dan Tailwind CSS.
 
+* **[Purrmart-6-K01](https://github.com/GhazyUrbayani/Purrmart-6-K01)**
+    * Aplikasi simulasi CLI berbasis C sebagai tugas besar mata kuliah Algoritma dan Struktur Data (IF2111).
 * **[Purrmart-6-K01](https://github.com/username/Purrmart-6-K01)**
     * Aplikasi simulasi CLI berbasis C sebagai tugas besar mata kuliah Algoritma dan Struktur Data (IF2111).
