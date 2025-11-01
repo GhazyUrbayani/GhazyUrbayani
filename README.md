@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=selamat+datang!+👋;Mahasiswa+Sistem+&+Teknologi+Informasi;Software+Engineer;Data+Scientist+%26+AI+Enthusiast" alt="Animated Typing Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=selamat+datang!;Mahasiswa+STI (STEI-K ITB);Software+Engineer;Data+Scientist+%26+AI+Enthusiast" alt="Animated Typing Header" />
   </a>
 </p>
 
 ### 👨‍💻 about Me
 
-Saya seorang mahasiswa **Sistem dan Teknologi Informasi (Information System and Technology) fakultas School of Electrical Engineering and Informatics (STEI-ITB)** di **Institut Teknologi Bandung (ITB)**.
+Saya seorang mahasiswa **Sistem dan Teknologi Informasi (STI: Information System and Technology) fakultas School of Electrical Engineering and Informatics (STEI-ITB)** di **Institut Teknologi Bandung (ITB)**.
 
 Saya sangat antusias dalam membangun solusi di persimpangan antara **Rekayasa Perangkat Lunak (Software Engineering)** dan **Data Science/AI**. Saya aktif berpartisipasi dalam berbagai kompetisi *machine learning* dan membangun proyek perangkat lunak, mulai dari aplikasi web *full-stack* hingga algoritma AI.
 
