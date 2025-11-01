@@ -23,7 +23,7 @@ Saya sangat antusias dalam membangun solusi di persimpangan antara **Rekayasa Pe
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GhazyUrbayani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="Ghazy’s GitHub stats" />
@@ -35,7 +35,7 @@ Saya sangat antusias dalam membangun solusi di persimpangan antara **Rekayasa Pe
 
 ---
 
-### 🐍 Aktivitas Kontribusi Saya
+### 🐍 Contribution
 
 <p align="center">
   <picture>
