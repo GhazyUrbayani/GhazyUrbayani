@@ -8,14 +8,6 @@
 
 ### 👨‍💻 about Me
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Halo%2C+selamat+datang!+👋;Saya+seorang+Mahasiswa+Teknik+Informatika;Software+Engineer;Data+Scientist+%26+AI+Enthusiast" alt="Animated Typing Header" />
-  </a>
-</p>
-
-### 👨‍💻 Tentang Saya
-
 Saya seorang mahasiswa **Teknik Informatika (Computer Science) tahun ketiga** di **Institut Teknologi Bandung (ITB)**.
 
 Saya sangat antusias dalam membangun solusi di persimpangan antara **Rekayasa Perangkat Lunak (Software Engineering)** dan **Data Science/AI**. Saya aktif berpartisipasi dalam berbagai kompetisi *machine learning* dan membangun proyek perangkat lunak, mulai dari aplikasi web *full-stack* hingga algoritma AI.
