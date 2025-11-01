@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Halo%2C+selamat+datang!+👋;Mahasiswa+Sistem+dan+Teknologi+Informasi;Software+Engineer;Data+Scientist+%26+AI+Enthusiast" alt="Animated Typing Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=selamat+datang!+👋;Mahasiswa+Sistem+dan+Teknologi+Informasi;Software+Engineer;Data+Scientist+%26+AI+Enthusiast" alt="Animated Typing Header" />
   </a>
 </p>
 
