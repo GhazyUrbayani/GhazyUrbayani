@@ -94,7 +94,7 @@
 
 ## 🔥 Featured Projects & Contributions
 
-Sorted by **impact** (awards), **recency** (2025-2026), and **contribution scale** (personal repos first, then collaborations & coursework).
+Sorted by **impact** (awards), **recency** (2025-2026), and **contribution scale** (personal repos first, then collaborations & coursework)
 
 ### 🥇 High‑Impact & Awarded
 
@@ -164,7 +164,7 @@ Sorted by **impact** (awards), **recency** (2025-2026), and **contribution scale
   👉 Repo: [**https://github.com/azzamrbni/tesinvofest**](https://github.com/azzamrbni/tesinvofest)
 
 - **Purrmart-6-K01**  
-  CLI‑based C application (Data Structures & Algorithms course - IF2111).
+  CLI‑based C application (Data Structures & Algorithms course - IF2111)
 
 ---
 
