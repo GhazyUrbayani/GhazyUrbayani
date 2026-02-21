@@ -50,6 +50,12 @@
           alt="Summary Languages"
         />
       </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhazyUrbayani&theme=dracula&utcOffset=7"
+          alt="Productive Time"
+        />
+      </td>
     </tr>
   </table>
 
