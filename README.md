@@ -91,15 +91,19 @@ Sorted by **impact** (awards), **recency** (2025-2026), and **contribution scale
 
 - **ML-Workover-Dashboard** – _1st Place International Hackathon (Petroleum Competition)_  
   ML dashboard for workover optimization using advanced ML models and intuitive visualizations.  
+  
   👉 Repo: [**https://github.com/GhazyUrbayani/ML-Workover-Dashboard**](https://github.com/GhazyUrbayani/ML-Workover-Dashboard)
+  
   Notebook: [**https://www.kaggle.com/code/ghazyachmed/ipfestproto**](https://www.kaggle.com/code/ghazyachmed/ipfestproto)
 
 - **PAKTA** – _3rd Place National Competition_  
   National‑scale project with significant involvement in modeling, engineering, and product shaping.  
+  
   👉 Repo: [**https://github.com/faawibowo/PAKTA**](https://github.com/faawibowo/PAKTA)
 
 - **Djaja** – _Competition Finalist_  
   Finalist‑level application showcasing strong teamwork, ML integration, and production‑ready engineering.  
+  
   👉 Repo: [**https://github.com/ahsuunn/Djaja**](https://github.com/ahsuunn/Djaja)
 
 ---
