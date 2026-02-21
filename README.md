@@ -36,17 +36,9 @@
 
 <div align="center">
 
-  <!-- Trophies -->
+  <!-- Stats -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=GhazyUrbayani&theme=dracula&no-frame=true&row=1"
-    alt="GitHub Trophies"
-  />
-
-  <br /><br />
-
-  <!-- Overall Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GhazyUrbayani&show_icons=true&theme=dracula"
+    src="https://github-readme-stats-fast.vercel.app/api?username=GhazyUrbayani&show_icons=true&theme=dracula"
     alt="GitHub Stats"
   />
 
@@ -54,7 +46,7 @@
 
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazyUrbayani&layout=compact&theme=dracula"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GhazyUrbayani&layout=compact&theme=dracula"
     alt="Top Languages"
   />
 
@@ -171,7 +163,7 @@ Sorted by **impact** (awards), **recency** (2025–2026), and **contribution sca
 
   <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=GhazyUrbayani&layout=compact&theme=dracula"
+      src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=GhazyUrbayani&layout=compact&theme=dracula"
       alt="WakaTime Stats"
     />
   </div>
