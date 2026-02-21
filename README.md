@@ -42,8 +42,6 @@
     alt="Summary Stats"
   />
 
-  <br /><br />
-
   <!-- Profile Summary Card: Top Languages -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhazyUrbayani&theme=dracula"
