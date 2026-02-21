@@ -10,7 +10,7 @@
   <p>
     <em>
       Building impactful products at the intersection of Software Engineering, Data Science, and AI.  
-      1st Place International Hackathon (ML-Workover-Dashboard – Petroleum Competition).
+      1st Place International Hackathon (ML-Workover-Dashboard - Petroleum Competition).
     </em>
   </p>
 
@@ -98,19 +98,19 @@ Sorted by **impact** (awards), **recency** (2025-2026), and **contribution scale
 
 ### 🥇 High‑Impact & Awarded
 
-- **ML-Workover-Dashboard** – _1st Place International Hackathon (Petroleum Competition)_  
+- **ML-Workover-Dashboard** - _1st Place International Hackathon (Petroleum Competition)_  
   ML dashboard for workover optimization using advanced ML models and intuitive visualizations.  
   
   👉 Repo: [**https://github.com/GhazyUrbayani/ML-Workover-Dashboard**](https://github.com/GhazyUrbayani/ML-Workover-Dashboard)
   
   Notebook: [**https://www.kaggle.com/code/ghazyachmed/ipfestproto**](https://www.kaggle.com/code/ghazyachmed/ipfestproto)
 
-- **PAKTA** – _3rd Place National Competition_  
+- **PAKTA** - _3rd Place National Competition_  
   National‑scale project with significant involvement in modeling, engineering, and product shaping.  
   
   👉 Repo: [**https://github.com/faawibowo/PAKTA**](https://github.com/faawibowo/PAKTA)
 
-- **Djaja** – _Competition Finalist_  
+- **Djaja** - _Competition Finalist_  
   Finalist‑level application showcasing strong teamwork, ML integration, and production‑ready engineering.  
   
   👉 Repo: [**https://github.com/ahsuunn/Djaja**](https://github.com/ahsuunn/Djaja)
@@ -124,7 +124,7 @@ Sorted by **impact** (awards), **recency** (2025-2026), and **contribution scale
   Built an ensemble Gradient Boosting model to predict student dropout rate.
 
 - **AverageTemperature-MachineLearning-Prediction-intelecta**  
-  Global Agriculture Challenge 2025 (Si Data Tuh – qualification stage).  
+  Global Agriculture Challenge 2025 (Si Data Tuh - qualification stage).  
   Time‑series forecasting of annual average temperature.
 
 - **Talent-Salary-Prediction-Model-IFEST-2025**  
@@ -164,7 +164,7 @@ Sorted by **impact** (awards), **recency** (2025-2026), and **contribution scale
   👉 Repo: [**https://github.com/azzamrbni/tesinvofest**](https://github.com/azzamrbni/tesinvofest)
 
 - **Purrmart-6-K01**  
-  CLI‑based C application (Data Structures & Algorithms course – IF2111).
+  CLI‑based C application (Data Structures & Algorithms course - IF2111).
 
 ---
 
