@@ -36,15 +36,27 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=GhazyUrbayani&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <!-- GitHub Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=GhazyUrbayani&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" 
+    alt="GitHub Trophies" 
+  />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GhazyUrbayani&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GhazyUrbayani&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
+  />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazyUrbayani&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhazyUrbayani&theme=dracula&hide_border=false&layout=compact" 
+    alt="Top Languages" 
+  />
 
 </div>
 
@@ -158,7 +170,10 @@ Sorted by **impact** (awards), **recency** (2025–2026), and **contribution sca
   <summary><b>Show WakaTime stats</b></summary>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GhazyUrbayani&theme=dracula&hide_border=false&layout=compact" alt="WakaTime Stats" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=GhazyUrbayani&theme=dracula&hide_border=false&layout=compact" 
+      alt="WakaTime Stats" 
+    />
   </div>
 
 </details>
