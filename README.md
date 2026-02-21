@@ -1,11 +1,5 @@
 # Hello, World! welcome... to Ghazy's GitHub, hope you Enjoy👋
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;+Data+Scientist+%26+AI+Enthusiast;+ITB+STE+Student" alt="Animated Typing Header">
-  </a>
-</div>
-
 <!-- PROFILE HEADER -->
 <div align="center">
 
