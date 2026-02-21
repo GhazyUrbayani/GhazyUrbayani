@@ -36,17 +36,22 @@
 
 <div align="center">
 
-  <!-- Profile Summary Card: Stats -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhazyUrbayani&theme=dracula"
-    alt="Summary Stats"
-  />
-
-  <!-- Profile Summary Card: Top Languages -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhazyUrbayani&theme=dracula"
-    alt="Summary Languages"
-  />
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhazyUrbayani&theme=dracula"
+          alt="Summary Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhazyUrbayani&theme=dracula"
+          alt="Summary Languages"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
