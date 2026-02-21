@@ -7,8 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Scientist+%26+AI+Enthusiast;ITB+STI+Student" alt="Typing SVG">
   </a>
 
-  <br /><br />
-
   <p>
     <em>
       Building impactful products at the intersection of Software Engineering, Data Science, and AI.  
