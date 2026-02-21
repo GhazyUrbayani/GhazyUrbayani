@@ -120,15 +120,15 @@ Sorted by **impact** (awards), **recency** (2025-2026), and **contribution scale
 ### 🧪 Data Science & AI Competitions
 
 - **Dropout-School-Rate-SHINE-binus-2025**  
-  4th place solution for BINUS Data Science Competition (Rumpun Penalaran 2025).  
-  Built an ensemble Gradient Boosting model to predict student dropout rate.
+  - 4th place solution for BINUS Data Science Competition (Rumpun Penalaran 2025)  
+  - Built an ensemble Gradient Boosting model to predict student dropout rate.
 
-- **AverageTemperature-MachineLearning-Prediction-intelecta**  
-  Global Agriculture Challenge 2025 (Si Data Tuh - qualification stage).  
-  Time‑series forecasting of annual average temperature.
+- **AverageTemperature-MachineLearning-Prediction-intelecta**
+  - Global Agriculture Challenge 2025 (Si Data Tuh - qualification stage)
+  - Time‑series forecasting of annual average temperature.
 
 - **Talent-Salary-Prediction-Model-IFEST-2025**  
-  Multi‑target regression model for salary range prediction in Data Analytics Competition DAC IFest 2025 (HIMATIF UNPAD).
+  Multi‑target regression model for salary range prediction in Data Analytics Competition DAC IFest 2025 (HIMATIF UNPAD)
 
 ---
 
