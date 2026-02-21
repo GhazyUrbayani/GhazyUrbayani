@@ -154,22 +154,6 @@ Sorted by **impact** (awards), **recency** (2025–2026), and **contribution sca
 
 ---
 
-## ⌚ Coding Activity
-
-<details>
-  <summary><b>Show WakaTime stats</b></summary>
-
-  <div align="center">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=GhazyUrbayani&layout=compact&theme=dracula"
-      alt="WakaTime Stats"
-    />
-  </div>
-
-</details>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GhazyUrbayani&color=00BFFF&style=for-the-badge" alt="Profile views" />
   <br /><br />
