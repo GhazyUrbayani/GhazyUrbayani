@@ -36,18 +36,18 @@
 
 <div align="center">
 
-  <!-- Stats -->
+  <!-- Profile Summary Card: Stats -->
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=GhazyUrbayani&show_icons=true&theme=dracula"
-    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhazyUrbayani&theme=dracula"
+    alt="Summary Stats"
   />
 
   <br /><br />
 
-  <!-- Top Languages -->
+  <!-- Profile Summary Card: Top Languages -->
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GhazyUrbayani&layout=compact&theme=dracula"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhazyUrbayani&theme=dracula"
+    alt="Summary Languages"
   />
 
 </div>
