@@ -10,7 +10,7 @@
   <p>
     <em>
       Building impactful products at the intersection of Software Engineering, Data Science, and AI.  
-      1st Place International Hackathon (ML-Workover-Dashboard - Petroleum Competition).
+      1st Place Hackathon (ML-Workover-Dashboard - Petroleum Competition).
     </em>
   </p>
 
